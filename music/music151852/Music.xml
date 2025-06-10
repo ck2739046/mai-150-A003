@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <dataName>music010030</dataName>
+  <dataName>music151852</dataName>
   <netOpenName>
     <id>230922</id>
     <str>Net230922</str>
@@ -11,24 +11,23 @@
   </releaseTagName>
   <disable>false</disable>
   <name>
-    <id>10030</id>
-    <str>ネコ日和。[DX]</str>
+    <id>151852</id>
+    <str>[表]好きな惣菜発表ドラゴン</str>
   </name>
   <rightsInfoName>
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>ネコ日和。[DX]</sortName>
+  <sortName>[表]好きな惣菜発表ドラゴン</sortName>
   <artistName>
     <id>999</id>
-    <str>Kai/能登有沙</str>
+    <str>ンバヂ</str>
   </artistName>
   <genreName>
-    <id>1</id>
-    <str>
-    </str>
+    <id>107</id>
+    <str>宴会場</str>
   </genreName>
-  <bpm>171</bpm>
+  <bpm>160</bpm>
   <version>25500</version>
   <AddVersion>
     <id>24</id>
@@ -36,12 +35,12 @@
     </str>
   </AddVersion>
   <movieName>
-    <id>30</id>
-    <str>ネコ日和。[DX]</str>
+    <id>1852</id>
+    <str>好きな惣菜発表ドラゴン</str>
   </movieName>
   <cueName>
-    <id>30</id>
-    <str>ネコ日和。[DX]</str>
+    <id>1852</id>
+    <str>好きな惣菜発表ドラゴン</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -62,67 +61,22 @@
   <notesData>
     <Notes>
       <file>
-        <path>010030_00.ma2</path>
-      </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
-      <notesDesigner>
-        <id>999</id>
-        <str />
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>010030_01.ma2</path>
-      </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
-      <notesDesigner>
-        <id>999</id>
-        <str />
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>010030_02.ma2</path>
-      </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
-      <notesDesigner>
-        <id>999</id>
-        <str />
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>010030_03.ma2</path>
+        <path>151852_00.ma2</path>
       </file>
       <level>13</level>
       <levelDecimal>7</levelDecimal>
       <notesDesigner>
-        <id>999</id>
-        <str>サファ太</str>
+        <id>0</id>
+        <str />
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>20</musicLevelID>
-      <maxNotes>631</maxNotes>
+      <maxNotes>685</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>010030_04.ma2</path>
+        <path>151852_01.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -137,7 +91,52 @@
     </Notes>
     <Notes>
       <file>
-        <path>010030_05.ma2</path>
+        <path>151852_02.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>151852_03.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>151852_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>151852_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -155,4 +154,7 @@
   <thumbnailName />
   <rightFile />
   <priority>0</priority>
+  <utageKanjiName>表</utageKanjiName>
+  <comment>好きな譜面発表きょむりん</comment>
+  <utagePlayerStyle>0</utagePlayerStyle>
 </MusicData>
